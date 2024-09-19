@@ -22,6 +22,7 @@ for(m in Y){
   SUM_M=SUM_M + exp(m)
 }
 
-Sumatorio = SUM_N + SUM_M
+Sumatorio =  SUM_N - SUM_M
 
+sum(exp(X))-sum(exp(Y))
 Y[19]>=Y[24]
